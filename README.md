@@ -1,3 +1,3 @@
-JAVASCRIPT GÖSTER/GİZLE
+# JAVASCRIPT GÖSTER/GİZLE
 
 Javascript ile basit bir göster/gizle uygulaması.
